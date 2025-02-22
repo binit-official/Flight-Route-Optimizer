@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="212cff43-f17c-4f09-b871-952c08951c4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flight-Route-Optimizer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlightOptimizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/RouteComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/RouteFinder$Route.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/RouteFinder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/global_airports.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/global_routes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph/FlightGraph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/Airport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/FlightRoute.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlightOptimizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/RouteComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/RouteFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/FlightGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/FlightRoute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/DataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/DataLoader.class" afterDir="false" />
-    </list>
+    <list default="true" id="212cff43-f17c-4f09-b871-952c08951c4a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,14 +59,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740243463309</updated>
-      <workItem from="1740243464539" duration="2106000" />
+      <workItem from="1740243464539" duration="2442000" />
     </task>
+    <task id="LOCAL-00001" summary="DSA PROJECT">
+      <created>1740252723333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740252723333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="DSA PROJECT" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA PROJECT" />
   </component>
 </project>
